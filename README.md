@@ -62,5 +62,5 @@ basics.c    general.c  main.h  memory.c   shell.c
 builders.c  helper.c   hsh          README.md  test
 ```
 
-### Authors
-[Bamidele Adefolaju](https://github.com/Lexxyla) and [Akinloye Oluwakemi](https://github.com/Natacha-07)
+### Author
+[Adan Hazi](https://github.com/adanhazi))
